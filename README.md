@@ -11,7 +11,7 @@ http://www.rlvision.com/blog/introducing-dynform-a-c-library-for-semi-automatic-
 
 The source code includes a sample application, showing how to use most features.
 
-# Screenshots
+### Screenshots
 
 <img src="http://www.rlvision.com/blog/wp-content/uploads/2014/09/dynform3.png">
 
